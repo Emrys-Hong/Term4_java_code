@@ -1,0 +1,8 @@
+package com.example.midterm;
+
+public interface Subject {
+    void register(Observer o);
+    void unregister(Observer o);
+    void notifyObservers();
+
+}

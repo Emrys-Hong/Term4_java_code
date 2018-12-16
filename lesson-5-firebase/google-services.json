@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "371917881866",
+    "firebase_url": "https://andriod-experiment-firebase.firebaseio.com",
+    "project_id": "andriod-experiment-firebase",
+    "storage_bucket": "andriod-experiment-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371917881866:android:e8ef523e6be487ae",
+        "android_client_info": {
+          "package_name": "com.example.emrys.lesson5_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371917881866-udk9i3jptasmituccb8jvu2d1hoito71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgYBtsFLw19Ddtg9u16xWAWoXUp8uV_EA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

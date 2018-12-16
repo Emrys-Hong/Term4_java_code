@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "379538630973",
+    "firebase_url": "https://lesson5firebase.firebaseio.com",
+    "project_id": "lesson5firebase",
+    "storage_bucket": "lesson5firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379538630973:android:e8ef523e6be487ae",
+        "android_client_info": {
+          "package_name": "com.example.emrys.lesson5_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379538630973-r95sn2p8tmu776joorh13a8hi939o5ko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emrys.lesson5_firebase",
+            "certificate_hash": "fe01e91d43e19ffa13779f0fddb5478b7819ec60"
+          }
+        },
+        {
+          "client_id": "379538630973-m89p6vpuhe3hg82lne6p8refubifpmt7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3-NrHZoNTKz18aVUNDKT1Ezk6qBLq1UA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379538630973-m89p6vpuhe3hg82lne6p8refubifpmt7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

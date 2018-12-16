@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/2017midterm" />
+            <option value="$PROJECT_DIR$/2D" />
+            <option value="$PROJECT_DIR$/Exception" />
+            <option value="$PROJECT_DIR$/andriod1" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/exercise" />
+            <option value="$PROJECT_DIR$/lib01" />
+            <option value="$PROJECT_DIR$/midterm" />
+            <option value="$PROJECT_DIR$/myapplication" />
+            <option value="$PROJECT_DIR$/pset2A" />
+            <option value="$PROJECT_DIR$/pset2B" />
+            <option value="$PROJECT_DIR$/pset2PartB" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

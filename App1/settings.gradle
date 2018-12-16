@@ -1,0 +1,1 @@
+include ':app', ':lib01', ':exercise', ':pset2A', ':pset2B', ':2D', ':myapplication', ':pset2PartB', ':andriod1', ':2017midterm', ':midterm', ':Exception'
